@@ -54,7 +54,8 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from Max!
+      This is Render Test 1!
     </section>
   </body>
 </html>
